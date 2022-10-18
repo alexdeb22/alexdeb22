@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexdeb22
+- 👀 I’m interested in Java, craftmanship and bioinformatics (and video games)
+- 🌱 I’m currently learning Rust
+- 💞️ I’m not particularly looking to collaborate on anything right now but it might changes in the future
+- 📫 How to reach me (Don't)
